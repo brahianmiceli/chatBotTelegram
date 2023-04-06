@@ -10,13 +10,13 @@ public class TelegramBot extends TelegramLongPollingBot {
     @Override
     public String getBotUsername() {
         //username bot - Example :"@ChatBot"
-        return "JIMChatBot";
+        return "";
     }
 
     @Override
     public String getBotToken() {
         //token bot - Example "9999:abcdefghijklmnqzzz3a33"
-        return "6266634976:AAGCEtQcvq6OR9Jt9KpQOdxFvpPCLYgqo3I";
+        return "";
     }
 
     //we handle the received update and capture the text and id of the conversation
