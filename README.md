@@ -13,7 +13,7 @@
 
 ## Instalación
 
-# Clonar el repositorio
+bash
 git clone https://github.com/brahianmiceli/chatBotTelegram.git
 
 
