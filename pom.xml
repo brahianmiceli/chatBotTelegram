@@ -15,7 +15,7 @@
     </properties>
 
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/org.telegram/telegrambots -->
+        <!-- https://mvnrepository.com/artifact/org.telegr
         <dependency>
             <groupId>org.telegram</groupId>
             <artifactId>telegrambots</artifactId>
